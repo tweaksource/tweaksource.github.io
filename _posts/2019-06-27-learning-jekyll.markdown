@@ -13,6 +13,7 @@ Shout out to Stephanie Hicks for [this post.](http://www.stephaniehicks.com/gith
 Jekyll also offers powerful support for code snippets:
 
 {% highlight powershell %}
+</p>
 <div class="code">
 # Create a new object
 $Result = New-Object -TypeName PSObject
@@ -36,6 +37,7 @@ foreach($Line in $Lines)
 return $Results
 {% endhighlight %}
 </div> <!-- end code div -->
+<p>
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
