@@ -10,6 +10,10 @@ This is [the post](http://jmcglone.com/guides/github-pages/) that got me started
 
 Shout out to Stephanie Hicks for [this post.](http://www.stephaniehicks.com/githubPages_tutorial/pages/githubpages-jekyll.html)
 
+```
+x = ('a', 1, False)
+```
+
 [jekyll-docs](https://jekyllrb.com/docs/home)
 [jekyll-gh](https://github.com/jekyll/jekyll)
 [jekyll-talk](https://talk.jekyllrb.com/)
