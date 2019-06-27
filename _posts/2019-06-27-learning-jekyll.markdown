@@ -6,6 +6,8 @@ categories: jekyll update
 ---
 Learning more about jekyll. I have to say, it's prtty darn sweet...
 
+This is [the post](http://jmcglone.com/guides/github-pages/) that got me started.
+
 Shout out to Stephanie Hicks for [this post.](http://www.stephaniehicks.com/githubPages_tutorial/pages/githubpages-jekyll.html)
 
 Jekyll also offers powerful support for code snippets:
